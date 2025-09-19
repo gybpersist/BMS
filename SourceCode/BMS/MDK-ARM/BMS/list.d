@@ -1,0 +1,12 @@
+bms\list.o: ..\Mid\FreeRTOS\source\list.c
+bms\list.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdlib.h
+bms\list.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+bms\list.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stddef.h
+bms\list.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdint.h
+bms\list.o: ../Mid/FreeRTOS/FreeRTOSConfig.h
+bms\list.o: ../Mid/FreeRTOS/include/projdefs.h
+bms\list.o: ../Mid/FreeRTOS/include/portable.h
+bms\list.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+bms\list.o: ../Mid/FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+bms\list.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+bms\list.o: ../Mid/FreeRTOS/include/list.h

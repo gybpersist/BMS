@@ -1,0 +1,13 @@
+bms\croutine.o: ..\Mid\FreeRTOS\source\croutine.c
+bms\croutine.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+bms\croutine.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stddef.h
+bms\croutine.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdint.h
+bms\croutine.o: ../Mid/FreeRTOS/FreeRTOSConfig.h
+bms\croutine.o: ../Mid/FreeRTOS/include/projdefs.h
+bms\croutine.o: ../Mid/FreeRTOS/include/portable.h
+bms\croutine.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+bms\croutine.o: ../Mid/FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+bms\croutine.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+bms\croutine.o: ../Mid/FreeRTOS/include/task.h
+bms\croutine.o: ../Mid/FreeRTOS/include/list.h
+bms\croutine.o: ../Mid/FreeRTOS/include/croutine.h

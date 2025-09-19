@@ -1,0 +1,15 @@
+bms\queue.o: ..\Mid\FreeRTOS\source\queue.c
+bms\queue.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdlib.h
+bms\queue.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\string.h
+bms\queue.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+bms\queue.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stddef.h
+bms\queue.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdint.h
+bms\queue.o: ../Mid/FreeRTOS/FreeRTOSConfig.h
+bms\queue.o: ../Mid/FreeRTOS/include/projdefs.h
+bms\queue.o: ../Mid/FreeRTOS/include/portable.h
+bms\queue.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+bms\queue.o: ../Mid/FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+bms\queue.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+bms\queue.o: ../Mid/FreeRTOS/include/task.h
+bms\queue.o: ../Mid/FreeRTOS/include/list.h
+bms\queue.o: ../Mid/FreeRTOS/include/queue.h
